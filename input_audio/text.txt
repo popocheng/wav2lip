@@ -1,0 +1,17 @@
+"Happy chinese new year! "
+"I am pleased to send my warmest greetings as we enter the Year of the Dragon, "
+"The Dragon is a symbol of strong and struggle. these are qualities we need as humanity faces hardship and tests, "
+"I thank China for your strong partnership with the United Nations and support for international cooperation.,  "
+"By working together as a global community, we can advance peace, sustainable development and a better world for all. "
+"In a spirit of hope and new beginnings, I wish you and your families good health, prosperity, and happiness in the Chinese New Year. Thank you."
+
+
+
+"""
+春节快乐！
+在我们步入龙年之际，我很高兴送上我最诚挚的问候。
+龙象征着坚强和奋斗，这是人类面临艰难和考验时所需要的品质。
+我感谢中国与联合国强有力的伙伴关系，感谢中国支持国际合作。
+通过作为一个全球社区携手合作，我们能推动和平、可持续发展，为所有人建设更加美好的世界。
+带着希望和崭新的开端，我祝愿您和您的家人新年身体健康、幸福如意。谢谢。
+"""
