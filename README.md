@@ -123,28 +123,6 @@ Evaluation
 ----------
 Please check the `evaluation/` folder for the instructions.
 
-License and Citation
-----------
-This repository can only be used for personal/research/non-commercial purposes. However, for commercial requests, please contact us directly at radrabha.m@research.iiit.ac.in or prajwal.k@research.iiit.ac.in. We have an HD model trained on a dataset allowing commercial usage. The size of the generated face will be 192 x 288 in our new model. Please cite the following paper if you use this repository:
-```
-@inproceedings{10.1145/3394171.3413532,
-author = {Prajwal, K R and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P. and Jawahar, C.V.},
-title = {A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild},
-year = {2020},
-isbn = {9781450379885},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3394171.3413532},
-doi = {10.1145/3394171.3413532},
-booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
-pages = {484–492},
-numpages = {9},
-keywords = {lip sync, talking face generation, video generation},
-location = {Seattle, WA, USA},
-series = {MM '20}
-}
-```
-
 
 Acknowledgments
 ----------
